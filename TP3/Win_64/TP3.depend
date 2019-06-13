@@ -1,0 +1,216 @@
+# depslib dependency file v1.0
+1533062952 source:/home/mauro/Descargas/Practica_Pair_v1.2/Linux_64/Employee.c
+
+1533063050 source:/home/mauro/Descargas/Practica_Pair_v1.2/Linux_64/main.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Employee.h"
+
+1532354323 /home/mauro/Descargas/Practica_Pair_v1.2/Linux_64/LinkedList.h
+
+1533062926 /home/mauro/Descargas/Practica_Pair_v1.2/Linux_64/Employee.h
+
+1533063080 source:/home/mauro/Descargas/Practica_Pair_v1.2/Linux_64/parser.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Employee.h"
+
+1533062952 source:/home/mauro/Descargas/TP3/Linux_64/Employee.c
+
+1533066103 source:/home/mauro/Descargas/TP3/Linux_64/main.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Employee.h"
+
+1532354323 /home/mauro/Descargas/TP3/Linux_64/LinkedList.h
+
+1533066103 /home/mauro/Descargas/TP3/Linux_64/Employee.h
+
+1533063080 source:/home/mauro/Descargas/TP3/Linux_64/parser.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Employee.h"
+
+1533145792 source:/home/mauro/Descargas/TP3-20180801T173619Z-001/TP3/Linux_64/Controller.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Employee.h"
+
+1533118898 /home/mauro/Descargas/TP3-20180801T173619Z-001/TP3/Linux_64/LinkedList.h
+
+1533118898 /home/mauro/Descargas/TP3-20180801T173619Z-001/TP3/Linux_64/Employee.h
+
+1533118898 source:/home/mauro/Descargas/TP3-20180801T173619Z-001/TP3/Linux_64/Employee.c
+
+1533145890 source:/home/mauro/Descargas/TP3-20180801T173619Z-001/TP3/Linux_64/parser.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Employee.h"
+
+1559572575 source:c:\users\alumno\desktop\tp3\win_64\controller.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Employee.h"
+
+1559572575 c:\users\alumno\desktop\tp3\win_64\linkedlist.h
+
+1559572575 c:\users\alumno\desktop\tp3\win_64\employee.h
+
+1559572575 source:c:\users\alumno\desktop\tp3\win_64\main.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Controller.h"
+	"Employee.h"
+
+1559572575 c:\users\alumno\desktop\tp3\win_64\controller.h
+
+1559572575 source:c:\users\alumno\desktop\tp3\win_64\parser.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Employee.h"
+
+1559608882 source:c:\users\apyr\desktop\3-6-2019-clase-xddxdxd\mas carpetitas\tp3\win_64\controller.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Employee.h"
+	"string.h"
+
+1559602412 c:\users\apyr\desktop\3-6-2019-clase-xddxdxd\mas carpetitas\tp3\win_64\linkedlist.h
+
+1559600852 c:\users\apyr\desktop\3-6-2019-clase-xddxdxd\mas carpetitas\tp3\win_64\employee.h
+
+1559600852 source:c:\users\apyr\desktop\3-6-2019-clase-xddxdxd\mas carpetitas\tp3\win_64\employee.c
+	<stdlib.h>
+	<stdio.h>
+	"Employee.h"
+
+1559600852 source:c:\users\apyr\desktop\3-6-2019-clase-xddxdxd\mas carpetitas\tp3\win_64\parser.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Employee.h"
+
+1559608120 source:c:\users\apyr\desktop\3-6-2019-clase-xddxdxd\mas carpetitas\tp3\win_64\main.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Controller.h"
+	"Employee.h"
+
+1559600852 c:\users\apyr\desktop\3-6-2019-clase-xddxdxd\mas carpetitas\tp3\win_64\controller.h
+
+1559746926 source:c:\users\alumno\desktop\tp_laboratorio_1\tp3\win_64\employee.c
+	<stdlib.h>
+	<stdio.h>
+	"Employee.h"
+
+1559746201 c:\users\alumno\desktop\tp_laboratorio_1\tp3\win_64\employee.h
+
+1559734388 source:c:\users\alumno\desktop\tp_laboratorio_1\tp3\win_64\main.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Controller.h"
+	"Employee.h"
+
+1559734388 c:\users\alumno\desktop\tp_laboratorio_1\tp3\win_64\linkedlist.h
+
+1559734388 c:\users\alumno\desktop\tp_laboratorio_1\tp3\win_64\controller.h
+
+1559734388 source:c:\users\alumno\desktop\tp_laboratorio_1\tp3\win_64\parser.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Employee.h"
+
+1559747119 source:c:\users\alumno\desktop\tp_laboratorio_1\tp3\win_64\controller.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Employee.h"
+	"string.h"
+
+1559787086 source:c:\users\apyr\desktop\tp_laboratorio_1\tp 3\win_64\employee.c
+	<stdlib.h>
+	<stdio.h>
+	"string.h"
+	"Employee.h"
+
+1559787061 c:\users\apyr\desktop\tp_laboratorio_1\tp 3\win_64\employee.h
+
+1559792400 source:c:\users\apyr\desktop\tp_laboratorio_1\tp 3\win_64\main.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Controller.h"
+	"Employee.h"
+
+1559769269 c:\users\apyr\desktop\tp_laboratorio_1\tp 3\win_64\linkedlist.h
+
+1559759860 c:\users\apyr\desktop\tp_laboratorio_1\tp 3\win_64\controller.h
+
+1559759860 source:c:\users\apyr\desktop\tp_laboratorio_1\tp 3\win_64\parser.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Employee.h"
+
+1559792526 source:c:\users\apyr\desktop\tp_laboratorio_1\tp 3\win_64\controller.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Employee.h"
+	"string.h"
+
+1560157968 source:f:\usuarios\alumno\escritorio\tp 3\win_64\controller.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Employee.h"
+	"string.h"
+
+1559778294 f:\usuarios\alumno\escritorio\tp 3\win_64\linkedlist.h
+
+1559849348 f:\usuarios\alumno\escritorio\tp 3\win_64\employee.h
+
+1560158124 source:f:\usuarios\alumno\escritorio\tp 3\win_64\employee.c
+	<stdlib.h>
+	<stdio.h>
+	"string.h"
+	"Employee.h"
+
+1560156381 source:f:\usuarios\alumno\escritorio\tp 3\win_64\main.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Controller.h"
+	"Employee.h"
+
+1559778294 f:\usuarios\alumno\escritorio\tp 3\win_64\controller.h
+
+1560158411 source:f:\usuarios\alumno\escritorio\tp 3\win_64\parser.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Employee.h"
+
+1560158581 source:f:\usuarios\alumno\escritorio\tp 3\win_64\input.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<conio.h>
+	"input.h"
+
+1560158624 f:\usuarios\alumno\escritorio\tp 3\win_64\input.h
+
