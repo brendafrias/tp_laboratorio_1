@@ -5346,7 +5346,7 @@
 
 1560338884 f:\usuarios\alumno\escritorio\asdasdas-master\linkedlist_cascara_v5\testing\inc\main_test.h
 
-1560338884 source:f:\usuarios\alumno\escritorio\asdasdas-master\tp4\linkedlist_cascara_v5\testing\src\addnodetest.c
+1561306235 source:f:\usuarios\alumno\escritorio\asdasdas-master\tp4\linkedlist_cascara_v5\testing\src\addnodetest.c
 	"../../testing/utest.h"
 	<stdio.h>
 	<stdlib.h>
@@ -5577,13 +5577,13 @@
 	<stdlib.h>
 	<string.h>
 
-1560913559 source:f:\usuarios\alumno\escritorio\asdasdas-master\tp4\linkedlist_cascara_v5\src\linkedlist.c
+1561306155 source:f:\usuarios\alumno\escritorio\asdasdas-master\tp4\linkedlist_cascara_v5\src\linkedlist.c
 	<stdio.h>
 	<stdlib.h>
 	<string.h>
 	"../inc/LinkedList.h"
 
-1560913205 source:f:\usuarios\alumno\escritorio\asdasdas-master\tp4\linkedlist_cascara_v5\src\main.c
+1561236282 source:f:\usuarios\alumno\escritorio\asdasdas-master\tp4\linkedlist_cascara_v5\src\main.c
 	<stdio.h>
 	<stdlib.h>
 	<string.h>
@@ -5591,4 +5591,250 @@
 	"../inc/LinkedList.h"
 
 1560338884 f:\usuarios\alumno\escritorio\asdasdas-master\tp4\linkedlist_cascara_v5\testing\inc\main_test.h
+
+1561306235 source:f:\usuarios\alumno\escritorio\tp4 editar\tp4\linkedlist_cascara_v5\testing\src\addnodetest.c
+	"../../testing/utest.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"../../inc/LinkedList.h"
+	"../../testing/inc/Employee.h"
+
+1560338884 f:\usuarios\alumno\escritorio\tp4 editar\tp4\linkedlist_cascara_v5\testing\utest.h
+
+1560338884 f:\usuarios\alumno\escritorio\tp4 editar\tp4\linkedlist_cascara_v5\inc\linkedlist.h
+
+1560338884 f:\usuarios\alumno\escritorio\tp4 editar\tp4\linkedlist_cascara_v5\testing\inc\employee.h
+
+1560338884 source:f:\usuarios\alumno\escritorio\tp4 editar\tp4\linkedlist_cascara_v5\testing\src\addtest.c
+	"../../testing/utest.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"../../inc/LinkedList.h"
+	"../../testing/inc/Employee.h"
+
+1560338884 source:f:\usuarios\alumno\escritorio\tp4 editar\tp4\linkedlist_cascara_v5\testing\src\cleartest.c
+	"../../testing/utest.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"../../inc/LinkedList.h"
+	"../../testing/inc/Employee.h"
+
+1560338884 source:f:\usuarios\alumno\escritorio\tp4 editar\tp4\linkedlist_cascara_v5\testing\src\clonetest.c
+	"../../testing/utest.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"../../inc/LinkedList.h"
+	"../../testing/inc/Employee.h"
+
+1560338884 source:f:\usuarios\alumno\escritorio\tp4 editar\tp4\linkedlist_cascara_v5\testing\src\containsalltest.c
+	"../../testing/utest.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"../../inc/LinkedList.h"
+	"../../testing/inc/Employee.h"
+
+1560338884 source:f:\usuarios\alumno\escritorio\tp4 editar\tp4\linkedlist_cascara_v5\testing\src\containstest.c
+	"../../testing/utest.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"../../inc/LinkedList.h"
+	"../../testing/inc/Employee.h"
+
+1560338884 source:f:\usuarios\alumno\escritorio\tp4 editar\tp4\linkedlist_cascara_v5\testing\src\deletelinkedlisttest.c
+	"../../testing/utest.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"../../inc/LinkedList.h"
+	"../../testing/inc/Employee.h"
+
+1560338884 source:f:\usuarios\alumno\escritorio\tp4 editar\tp4\linkedlist_cascara_v5\testing\src\employee.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"../inc/Employee.h"
+
+1560338884 source:f:\usuarios\alumno\escritorio\tp4 editar\tp4\linkedlist_cascara_v5\testing\src\getnodetest.c
+	"../../testing/utest.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"../../inc/LinkedList.h"
+	"../../testing/inc/Employee.h"
+
+1560338884 source:f:\usuarios\alumno\escritorio\tp4 editar\tp4\linkedlist_cascara_v5\testing\src\gettest.c
+	"../../testing/utest.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"../../inc/LinkedList.h"
+	"../../testing/inc/Employee.h"
+
+1560338884 source:f:\usuarios\alumno\escritorio\tp4 editar\tp4\linkedlist_cascara_v5\testing\src\indexoftest.c
+	"../../testing/utest.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"../../inc/LinkedList.h"
+	"../../testing/inc/Employee.h"
+
+1560338884 source:f:\usuarios\alumno\escritorio\tp4 editar\tp4\linkedlist_cascara_v5\testing\src\isemptytest.c
+	"../../testing/utest.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"../../inc/LinkedList.h"
+	"../../testing/inc/Employee.h"
+
+1560338884 source:f:\usuarios\alumno\escritorio\tp4 editar\tp4\linkedlist_cascara_v5\testing\src\lentest.c
+	"../../testing/utest.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"../../inc/LinkedList.h"
+	"../../testing/inc/Employee.h"
+
+1560338884 source:f:\usuarios\alumno\escritorio\tp4 editar\tp4\linkedlist_cascara_v5\testing\src\main_test.c
+	"../../testing/utest.h"
+	<stdio.h>
+	<stdlib.h>
+	"../inc/newTest.h"
+	"../inc/addTest.h"
+	"../inc/getNodeTest.h"
+	"../inc/addNodeTest.h"
+	"../inc/deleteLinkedListTest.h"
+	"../inc/lenTest.h"
+	"../inc/getTest.h"
+	"../inc/containsTest.h"
+	"../inc/setTest.h"
+	"../inc/removeTest.h"
+	"../inc/clearTest.h"
+	"../inc/cloneTest.h"
+	"../inc/pushTest.h"
+	"../inc/indexOfTest.h"
+	"../inc/isEmptyTest.h"
+	"../inc/popTest.h"
+	"../inc/subListTest.h"
+	"../inc/containsAllTest.h"
+	"../inc/sortTest.h"
+
+1560338884 f:\usuarios\alumno\escritorio\tp4 editar\tp4\linkedlist_cascara_v5\testing\inc\newtest.h
+
+1560338884 f:\usuarios\alumno\escritorio\tp4 editar\tp4\linkedlist_cascara_v5\testing\inc\addtest.h
+
+1560338884 f:\usuarios\alumno\escritorio\tp4 editar\tp4\linkedlist_cascara_v5\testing\inc\getnodetest.h
+
+1560338884 f:\usuarios\alumno\escritorio\tp4 editar\tp4\linkedlist_cascara_v5\testing\inc\addnodetest.h
+
+1560338884 f:\usuarios\alumno\escritorio\tp4 editar\tp4\linkedlist_cascara_v5\testing\inc\deletelinkedlisttest.h
+
+1560338884 f:\usuarios\alumno\escritorio\tp4 editar\tp4\linkedlist_cascara_v5\testing\inc\lentest.h
+
+1560338884 f:\usuarios\alumno\escritorio\tp4 editar\tp4\linkedlist_cascara_v5\testing\inc\gettest.h
+
+1560338884 f:\usuarios\alumno\escritorio\tp4 editar\tp4\linkedlist_cascara_v5\testing\inc\containstest.h
+
+1560338884 f:\usuarios\alumno\escritorio\tp4 editar\tp4\linkedlist_cascara_v5\testing\inc\settest.h
+
+1560338884 f:\usuarios\alumno\escritorio\tp4 editar\tp4\linkedlist_cascara_v5\testing\inc\removetest.h
+
+1560338884 f:\usuarios\alumno\escritorio\tp4 editar\tp4\linkedlist_cascara_v5\testing\inc\cleartest.h
+
+1560338884 f:\usuarios\alumno\escritorio\tp4 editar\tp4\linkedlist_cascara_v5\testing\inc\clonetest.h
+
+1560338884 f:\usuarios\alumno\escritorio\tp4 editar\tp4\linkedlist_cascara_v5\testing\inc\pushtest.h
+
+1560338884 f:\usuarios\alumno\escritorio\tp4 editar\tp4\linkedlist_cascara_v5\testing\inc\indexoftest.h
+
+1560338884 f:\usuarios\alumno\escritorio\tp4 editar\tp4\linkedlist_cascara_v5\testing\inc\isemptytest.h
+
+1560338884 f:\usuarios\alumno\escritorio\tp4 editar\tp4\linkedlist_cascara_v5\testing\inc\poptest.h
+
+1560338884 f:\usuarios\alumno\escritorio\tp4 editar\tp4\linkedlist_cascara_v5\testing\inc\sublisttest.h
+
+1560338884 f:\usuarios\alumno\escritorio\tp4 editar\tp4\linkedlist_cascara_v5\testing\inc\containsalltest.h
+
+1560338884 f:\usuarios\alumno\escritorio\tp4 editar\tp4\linkedlist_cascara_v5\testing\inc\sorttest.h
+
+1560338884 source:f:\usuarios\alumno\escritorio\tp4 editar\tp4\linkedlist_cascara_v5\testing\src\newtest.c
+	"../../testing/utest.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"../../inc/LinkedList.h"
+
+1560338884 source:f:\usuarios\alumno\escritorio\tp4 editar\tp4\linkedlist_cascara_v5\testing\src\poptest.c
+	"../../testing/utest.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"../../inc/LinkedList.h"
+	"../../testing/inc/Employee.h"
+
+1560338884 source:f:\usuarios\alumno\escritorio\tp4 editar\tp4\linkedlist_cascara_v5\testing\src\pushtest.c
+	"../../testing/utest.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"../../inc/LinkedList.h"
+	"../../testing/inc/Employee.h"
+
+1560338884 source:f:\usuarios\alumno\escritorio\tp4 editar\tp4\linkedlist_cascara_v5\testing\src\removetest.c
+	"../../testing/utest.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"../../inc/LinkedList.h"
+	"../../testing/inc/Employee.h"
+
+1560338884 source:f:\usuarios\alumno\escritorio\tp4 editar\tp4\linkedlist_cascara_v5\testing\src\settest.c
+	"../../testing/utest.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"../../inc/LinkedList.h"
+	"../../testing/inc/Employee.h"
+
+1560338884 source:f:\usuarios\alumno\escritorio\tp4 editar\tp4\linkedlist_cascara_v5\testing\src\sorttest.c
+	"../../testing/utest.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"../../inc/LinkedList.h"
+	"../../testing/inc/Employee.h"
+
+1560338884 source:f:\usuarios\alumno\escritorio\tp4 editar\tp4\linkedlist_cascara_v5\testing\src\sublisttest.c
+	"../../testing/utest.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"../../inc/LinkedList.h"
+	"../../testing/inc/Employee.h"
+
+1560338884 source:f:\usuarios\alumno\escritorio\tp4 editar\tp4\linkedlist_cascara_v5\testing\utest.c
+	"utest.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1561306278 source:f:\usuarios\alumno\escritorio\tp4 editar\tp4\linkedlist_cascara_v5\src\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"../testing/inc/main_test.h"
+	"../inc/LinkedList.h"
+
+1560338884 f:\usuarios\alumno\escritorio\tp4 editar\tp4\linkedlist_cascara_v5\testing\inc\main_test.h
+
+1561410561 source:f:\usuarios\alumno\escritorio\tp4 editar\tp4\linkedlist_cascara_v5\src\linkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"../inc/LinkedList.h"
 
